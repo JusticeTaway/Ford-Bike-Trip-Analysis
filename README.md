@@ -578,7 +578,8 @@ This page provides an executive-level summary.
 **Value:**
 
 - Total Rides
-****Screenshot / Demos**
+
+**Screenshot / Demos**
   
   show what the Dashboard looks like - https://github.com/JusticeTaway/Ford-Bike-Trip-Analysis/blob/main/Ford%20Bike%20Dashboard%201.jpg
   Example: [Dashboad preview] (https://github.com/JusticeTaway/Ford-Bike-Trip-Analysis/blob/main/Ford%20Bike%20Dashboard%201.jpg)
