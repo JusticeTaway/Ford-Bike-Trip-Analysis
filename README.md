@@ -1,6 +1,7 @@
 # 🚲 Bike-Sharing Business Intelligence & Operations Analytics | Power BI
 
-## 📌 Project Overview
+## 📌 Project Overview 
+
 
 This project is an end-to-end **Business Intelligence and Business Analytics project** built around bike-sharing trip data.
 
@@ -445,8 +446,8 @@ These measures allowed the same business definitions to be used consistently acr
 
 The dashboard was divided into separate analytical pages rather than putting every visual on one screen.
 
-The final structure was:
-
+The final structure was: An overall Dashboard and its pages 
+- <img width="1226" height="679" alt="Image" src="https://github.com/user-attachments/assets/a441834c-ffb9-4068-8ff2-f7bdbca2d957" />
 ```text
 Page 1 → Executive Overview
 Page 2 → Rider Behavior
@@ -581,7 +582,7 @@ This page provides an executive-level summary.
 
 **Screenshots / Demos**
   
-  show what the Dashboard looks like -<img width="1226" height="679" alt="Image" src="https://github.com/user-attachments/assets/a441834c-ffb9-4068-8ff2-f7bdbca2d957" />
+  show what the Dashboard looks like -<img width="1230" height="679" alt="Image" src="https://github.com/user-attachments/assets/d78ee53b-c9d1-45b8-be49-80e91b029a9a" />
   Example: [Dashboad preview] (https://github.com/JusticeTaway/Ford-Bike-Trip-Analysis/blob/main/Ford%20Bike%20Dashboard%201.jpg)
 ---
 
@@ -688,7 +689,7 @@ This can reveal commuter-oriented versus leisure-oriented patterns.
 
 **Screenshot / Demos**
 What the Dashboard looks like: (https://github.com/JusticeTaway/Ford-Bike-Trip-Analysis/blob/main/Ford%20Bike%20Dashboard%202.jpg)
-Example: [Dashboard Preview] <img width="1230" height="679" alt="Image" src="https://github.com/user-attachments/assets/d78ee53b-c9d1-45b8-be49-80e91b029a9a" />
+Example: [Dashboard Preview] <img width="1244" height="675" alt="Image" src="https://github.com/user-attachments/assets/e622c7c9-c9f2-4480-b7f3-80f122ac5a24" />
 ---
 
 # PAGE 3 — Station Performance
@@ -788,7 +789,7 @@ This provides a more detailed operational view behind the charts.
 
 **Screenshot / Demos**
 What the Dashboard looks like: ()
-Example: [Dashboard Preview] <img width="1244" height="675" alt="Image" src="https://github.com/user-attachments/assets/e622c7c9-c9f2-4480-b7f3-80f122ac5a24" />
+Example: [Dashboard Preview] <img width="1241" height="680" alt="Image" src="https://github.com/user-attachments/assets/84cc089b-1fc6-48e5-a673-53777eeb58c4" />
 ---
 
 # PAGE 4 — Operations & Forecasting
