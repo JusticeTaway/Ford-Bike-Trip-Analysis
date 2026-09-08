@@ -581,7 +581,7 @@ This page provides an executive-level summary.
 
 **Screenshot / Demos**
   
-  show what the Dashboard looks like - https://github.com/JusticeTaway/Ford-Bike-Trip-Analysis/blob/main/Ford%20Bike%20Dashboard%201.jpg
+  show what the Dashboard looks like -<img width="1226" height="679" alt="Image" src="https://github.com/user-attachments/assets/a441834c-ffb9-4068-8ff2-f7bdbca2d957" />
   Example: [Dashboad preview] (https://github.com/JusticeTaway/Ford-Bike-Trip-Analysis/blob/main/Ford%20Bike%20Dashboard%201.jpg)
 ---
 
