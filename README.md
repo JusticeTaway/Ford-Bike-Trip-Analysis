@@ -688,7 +688,7 @@ This can reveal commuter-oriented versus leisure-oriented patterns.
 
 **Screenshot / Demos**
 What the Dashboard looks like: (https://github.com/JusticeTaway/Ford-Bike-Trip-Analysis/blob/main/Ford%20Bike%20Dashboard%202.jpg)
-Example: [Dashboard Preview] 
+Example: [Dashboard Preview] <img width="1230" height="679" alt="Image" src="https://github.com/user-attachments/assets/d78ee53b-c9d1-45b8-be49-80e91b029a9a" />
 ---
 
 # PAGE 3 — Station Performance
@@ -788,7 +788,7 @@ This provides a more detailed operational view behind the charts.
 
 **Screenshot / Demos**
 What the Dashboard looks like: ()
-Example: [Dashboard Preview]
+Example: [Dashboard Preview] <img width="1244" height="675" alt="Image" src="https://github.com/user-attachments/assets/e622c7c9-c9f2-4480-b7f3-80f122ac5a24" />
 ---
 
 # PAGE 4 — Operations & Forecasting
@@ -907,7 +907,7 @@ This is a **maintenance planning signal**, not proof that a bike is defective.
 
 **Screenshot / Demos**
 What the Dashboard looks like: ()
-Example: [Dashboard Preview]
+Example: [Dashboard Preview] <img width="1228" height="678" alt="Image" src="https://github.com/user-attachments/assets/bb598db8-fec7-4050-830f-6460bdb2b53e" />
 ---
 
 # PAGE 5 — Strategic Recommendations
@@ -1018,7 +1018,7 @@ For example:
 
 **Screenshot / Demos**
 What the Dashboard looks like: ()
-Example: [Dashboard Preview]
+Example: [Dashboard Preview] <img width="1247" height="677" alt="Image" src="https://github.com/user-attachments/assets/25cb2a69-d7c6-4a64-93b8-2784b30edf0a" />
 ---
 
 # 🛠️ Tools & Technologies
