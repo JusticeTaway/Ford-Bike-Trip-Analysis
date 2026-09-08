@@ -687,8 +687,8 @@ This page provides an executive-level summary.
 This can reveal commuter-oriented versus leisure-oriented patterns.
 
 **Screenshot / Demos**
-What the Dashboard looks like: 
-Example: [Dashboard Preview] ()
+What the Dashboard looks like: (https://github.com/JusticeTaway/Ford-Bike-Trip-Analysis/blob/main/Ford%20Bike%20Dashboard%202.jpg)
+Example: [Dashboard Preview] 
 ---
 
 # PAGE 3 — Station Performance
@@ -786,6 +786,9 @@ A matrix/table can combine multiple station indicators:
 
 This provides a more detailed operational view behind the charts.
 
+**Screenshot / Demos**
+What the Dashboard looks like: ()
+Example: [Dashboard Preview]
 ---
 
 # PAGE 4 — Operations & Forecasting
@@ -902,6 +905,9 @@ This is a **maintenance planning signal**, not proof that a bike is defective.
 - User Type
 - Total Rides
 
+**Screenshot / Demos**
+What the Dashboard looks like: ()
+Example: [Dashboard Preview]
 ---
 
 # PAGE 5 — Strategic Recommendations
@@ -1010,6 +1016,9 @@ For example:
 | What might happen next? | Time-based Demand | Forecast/Line Chart |
 | What should management do? | Findings | Recommendation Panel |
 
+**Screenshot / Demos**
+What the Dashboard looks like: ()
+Example: [Dashboard Preview]
 ---
 
 # 🛠️ Tools & Technologies
