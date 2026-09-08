@@ -579,7 +579,7 @@ This page provides an executive-level summary.
 
 - Total Rides
 
-**Screenshot / Demos**
+**Screenshots / Demos**
   
   show what the Dashboard looks like -<img width="1226" height="679" alt="Image" src="https://github.com/user-attachments/assets/a441834c-ffb9-4068-8ff2-f7bdbca2d957" />
   Example: [Dashboad preview] (https://github.com/JusticeTaway/Ford-Bike-Trip-Analysis/blob/main/Ford%20Bike%20Dashboard%201.jpg)
@@ -686,6 +686,9 @@ This page provides an executive-level summary.
 
 This can reveal commuter-oriented versus leisure-oriented patterns.
 
+**Screenshot / Demos**
+What the Dashboard looks like: 
+Example: [Dashboard Preview] ()
 ---
 
 # PAGE 3 — Station Performance
