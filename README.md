@@ -582,8 +582,8 @@ This page provides an executive-level summary.
 
 **Screenshots / Demos**
   
-  show what the Dashboard looks like -<img width="1230" height="679" alt="Image" src="https://github.com/user-attachments/assets/d78ee53b-c9d1-45b8-be49-80e91b029a9a" />
-  Example: [Dashboad preview] (https://github.com/JusticeTaway/Ford-Bike-Trip-Analysis/blob/main/Ford%20Bike%20Dashboard%201.jpg)
+  show what the Dashboard looks like -(https://github.com/JusticeTaway/Ford-Bike-Trip-Analysis/blob/main/Ford%20Bike%20Dashboard%202.jpg)
+  Example: [Dashboad preview] <img width="1230" height="679" alt="Image" src="https://github.com/user-attachments/assets/d78ee53b-c9d1-45b8-be49-80e91b029a9a" />
 ---
 
 # PAGE 2 — Rider Behavior
@@ -688,7 +688,7 @@ This page provides an executive-level summary.
 This can reveal commuter-oriented versus leisure-oriented patterns.
 
 **Screenshot / Demos**
-What the Dashboard looks like: (https://github.com/JusticeTaway/Ford-Bike-Trip-Analysis/blob/main/Ford%20Bike%20Dashboard%202.jpg)
+What the Dashboard looks like: (https://github.com/JusticeTaway/Ford-Bike-Trip-Analysis/blob/main/Ford%20Bike%20Dashboard%203.jpg)
 Example: [Dashboard Preview] <img width="1244" height="675" alt="Image" src="https://github.com/user-attachments/assets/e622c7c9-c9f2-4480-b7f3-80f122ac5a24" />
 ---
 
@@ -788,7 +788,7 @@ A matrix/table can combine multiple station indicators:
 This provides a more detailed operational view behind the charts.
 
 **Screenshot / Demos**
-What the Dashboard looks like: ()
+What the Dashboard looks like: (https://github.com/JusticeTaway/Ford-Bike-Trip-Analysis/blob/main/Ford%20Bike%20Dashboard%204.jpg)
 Example: [Dashboard Preview] <img width="1241" height="680" alt="Image" src="https://github.com/user-attachments/assets/84cc089b-1fc6-48e5-a673-53777eeb58c4" />
 ---
 
@@ -907,7 +907,7 @@ This is a **maintenance planning signal**, not proof that a bike is defective.
 - Total Rides
 
 **Screenshot / Demos**
-What the Dashboard looks like: ()
+What the Dashboard looks like: (https://github.com/JusticeTaway/Ford-Bike-Trip-Analysis/blob/main/Ford%20Bike%20Dashboard%205.jpg)
 Example: [Dashboard Preview] <img width="1228" height="678" alt="Image" src="https://github.com/user-attachments/assets/bb598db8-fec7-4050-830f-6460bdb2b53e" />
 ---
 
@@ -1018,7 +1018,7 @@ For example:
 | What should management do? | Findings | Recommendation Panel |
 
 **Screenshot / Demos**
-What the Dashboard looks like: ()
+What the Dashboard looks like: (https://github.com/JusticeTaway/Ford-Bike-Trip-Analysis/blob/main/Ford%20Bike%20Dashboard%206.jpg)
 Example: [Dashboard Preview] <img width="1247" height="677" alt="Image" src="https://github.com/user-attachments/assets/25cb2a69-d7c6-4a64-93b8-2784b30edf0a" />
 ---
 
